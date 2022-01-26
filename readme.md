@@ -50,3 +50,5 @@ directory.
 To access and preview the resulting grid content, it is **highly** advised to use a local server solution rather than
 modifying any of your browser's security / CORS settings to access these images. My recommendation would be to use
 `python -m SimpleHTTPServer 8000` if available, and access the end result via the browser at `localhost:8000`
+
+<img width="711" alt="Screen Shot 2022-01-26 at 9 05 26 AM" src="https://user-images.githubusercontent.com/21268999/151177429-1de1a4d8-cfab-4abc-803a-4da0330a7b04.png">
