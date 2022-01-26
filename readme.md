@@ -51,10 +51,10 @@ To access and preview the resulting grid content, it is **highly** advised to us
 modifying any of your browser's security / CORS settings to access these images. My recommendation would be to use
 `python -m SimpleHTTPServer 8000` if available, and access the end result via the browser at `localhost:8000`
 
-## Example
+## Preview
 
 The following screenshot shows off a preview of the end result. On the left is the raw color data extracted from each of 
-the corresponding images along the right, however one thing to note is that these visual windows are actually inverted 
+the corresponding images along the right, however one thing to note is that the generated visualizations are actually inverted 
 from one another (ie. top left on the block grid is actually reflecting the bottom right image).
 
 <img width="711" alt="Screen Shot 2022-01-26 at 9 05 26 AM" src="https://user-images.githubusercontent.com/21268999/151177429-1de1a4d8-cfab-4abc-803a-4da0330a7b04.png">
