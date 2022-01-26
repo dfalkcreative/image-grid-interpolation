@@ -1,11 +1,11 @@
 # Image Grid Interpolation
 
-### Overview
+## Overview
 
 This utility is intended to be a visual tool for designing image grids, layouts, or galleries by taking the
 guess work out of color science.
 
-### Getting Started
+## Getting Started
 
 To begin, first pre-populate the `./images` directory with your available pool of images. Alternatively,
 you can symlink an existing collection of images into the project directory, however you'll need to ensure that
@@ -41,7 +41,7 @@ will run through these listings and interpolate between them based on the neares
 each interpolated *step*. For different grid sized, simply adjust the CSS to account for more (or less) columns
 as necessary.
 
-### Building
+## Building
 
 This utility makes use of a JS build process through webpack. After updating your highlight listings within the
 `index.js` file, you can kick off the build process using either `npm run start` or `npm run watch` via the project
